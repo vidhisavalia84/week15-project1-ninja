@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Smoke Suite]">
+  <test thread-count="5" name="Smoke Test(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest">
+        <methods>
+          <include name="inIt"/>
+          <include name="verifyThatUserPlaceOrderSuccessfully"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.tutorialsninja.testsuite.LaptopsAndNotebooksTest -->
+      <class name="com.tutorialsninja.testsuite.DesktopsPageTest">
+        <methods>
+          <include name="inIt"/>
+          <include name="verifyProductAddedToShoppingCartSuccessFully"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.tutorialsninja.testsuite.DesktopsPageTest -->
+    </classes>
+  </test> <!-- Smoke Test(failed) -->
+</suite> <!-- Failed suite [Smoke Suite] -->

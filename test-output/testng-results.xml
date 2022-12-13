@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+    <line>
+      <![CDATA[ Clicl on currency button[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //span[contains(text(),'Currency')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select currency from drop down [[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //ul[@class = 'dropdown-menu']/li], [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //ul[@class = 'dropdown-menu']/li], [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //ul[@class = 'dropdown-menu']/li]]]]>
+    </line>
+    <line>
+      <![CDATA[Mousehover and click on laptop[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> link text: Desktops]]]>
+    </line>
+    <line>
+      <![CDATA[Click on all desktop [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> link text: Show All Desktops]]]>
+    </line>
+    <line>
+      <![CDATA[Select Z to A from dropdown[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //select[@id='input-sort'and@class='form-control']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on HP[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //a[contains(text(),'HP LP3065')]]]]>
+    </line>
+    <line>
+      <![CDATA[Verify HP text [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //h1[contains(text(),'HP LP3065')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select delivery date ]]>
+    </line>
+    <line>
+      <![CDATA[Add quantity[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //input[@id='input-quantity']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on add button [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //button[@id='button-cart']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on shopping cart [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //button[@id='button-cart']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //a[contains(text(),'shopping cart')]]]]>
+    </line>
+    <line>
+      <![CDATA[Verify shopping cart message [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //h1[contains(text(),' (1.00kg)')]]]]>
+    </line>
+    <line>
+      <![CDATA[Verify product name [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> css selector: div.container:nth-child(4) div.row div.col-sm-12 div.table-responsive table.table.table-bordered tbody:nth-child(2) tr:nth-child(1) td.text-left:nth-child(2) > a:nth-child(1)]]]>
+    </line>
+    <line>
+      <![CDATA[Verify product model121[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> css selector: div.container:nth-child(4) div.row div.col-sm-12 div.table-responsive table.table.table-bordered tbody:nth-child(2) tr:nth-child(1) > td.text-left:nth-child(3)]]]>
+    </line>
+    <line>
+      <![CDATA[Verify total [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //tbody/tr[1]/td[6]]]]>
+    </line>
+    <line>
+      <![CDATA[Mousehover and click on laptop[[ChromeDriver: chrome on WINDOWS (d52eecba7b46d6666f500d406bda2e94)] -> link text: Desktops]]]>
+    </line>
+    <line>
+      <![CDATA[Click on all desktop [[ChromeDriver: chrome on WINDOWS (d52eecba7b46d6666f500d406bda2e94)] -> link text: Show All Desktops]]]>
+    </line>
+    <line>
+      <![CDATA[Select Z to A from dropdown[[ChromeDriver: chrome on WINDOWS (d52eecba7b46d6666f500d406bda2e94)] -> xpath: //select[@id='input-sort'and@class='form-control']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on Laptops and notebook tab [[ChromeDriver: chrome on WINDOWS (e483025b957be1e591ebd9e892dc0776)] -> link text: Laptops & Notebooks]]]>
+    </line>
+    <line>
+      <![CDATA[Click on show all option [[ChromeDriver: chrome on WINDOWS (e483025b957be1e591ebd9e892dc0776)] -> link text: Show All Laptops & Notebooks]]]>
+    </line>
+    <line>
+      <![CDATA[Select price Low to High [[ChromeDriver: chrome on WINDOWS (e483025b957be1e591ebd9e892dc0776)] -> id: input-sort]]]>
+    </line>
+    <line>
+      <![CDATA[ Clicl on currency button[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //span[contains(text(),'Currency')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select currency from drop down [[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //ul[@class = 'dropdown-menu']/li], [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //ul[@class = 'dropdown-menu']/li], [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //ul[@class = 'dropdown-menu']/li]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on Laptops and notebook tab [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> link text: Laptops & Notebooks]]]>
+    </line>
+    <line>
+      <![CDATA[Click on show all option [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> link text: Show All Laptops & Notebooks]]]>
+    </line>
+    <line>
+      <![CDATA[Select option from drop down [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-sort]]]>
+    </line>
+    <line>
+      <![CDATA[select Macbook[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> link text: MacBook]]]>
+    </line>
+    <line>
+      <![CDATA[Verify text [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //h1[contains(text(),'MacBook')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on add to cart [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //button[@id='button-cart']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on shopping cart link[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //a[contains(text(),'shopping cart')]]]]>
+    </line>
+    <line>
+      <![CDATA[Verify shopping cart message[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //h1[contains(text(),' (0.00kg)')]]]]>
+    </line>
+    <line>
+      <![CDATA[Verify mackbook text[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]]]>
+    </line>
+    <line>
+      <![CDATA[Clear quantity and add quantity[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //input[contains(@name, 'quantity')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on update button [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //button[contains(@data-original-title, 'Update')]]]]>
+    </line>
+    <line>
+      <![CDATA[Verify text[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //div[@class='alert alert-success alert-dismissible']]]]>
+    </line>
+    <line>
+      <![CDATA[Verify text [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //tbody/tr[1]/td[6]]]]>
+    </line>
+    <line>
+      <![CDATA[Verify check out text[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //a[contains(text(),'Checkout')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on checkout[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //a[contains(text(),'Checkout')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on radio button [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //body/div[@id='checkout-checkout']/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/label[1]/input[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on continue button[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //input[@id='button-account']]]]>
+    </line>
+    <line>
+      <![CDATA[Enter first name[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-firstname]]]>
+    </line>
+    <line>
+      <![CDATA[Enter last name[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-lastname]]]>
+    </line>
+    <line>
+      <![CDATA[Enter email RavaP@gmailF5.com]]>
+    </line>
+    <line>
+      <![CDATA[Enter telephone [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-telephone]]]>
+    </line>
+    <line>
+      <![CDATA[Enter company name [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-company]]]>
+    </line>
+    <line>
+      <![CDATA[Enter address [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-address-1]]]>
+    </line>
+    <line>
+      <![CDATA[Enter city name [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-city]]]>
+    </line>
+    <line>
+      <![CDATA[Enter postcode [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-postcode]]]>
+    </line>
+    <line>
+      <![CDATA[Select country [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //select[@id='input-payment-country']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on continue]]>
+    </line>
+    <line>
+      <![CDATA[Tick terms and condition checkbox[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //body/div[@id='checkout-checkout']/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/input[1]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on continue[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //input[@id='button-payment-method']]]]>
+    </line>
+    <line>
+      <![CDATA[Verify message[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //div[@class='alert alert-danger alert-dismissible']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on my account[[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //span[contains(text(),'My Account')]]]]>
+    </line>
+    <line>
+      <![CDATA[Enter first name[[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> id: input-firstname]]]>
+    </line>
+    <line>
+      <![CDATA[Enter last name[[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> id: input-lastname]]]>
+    </line>
+    <line>
+      <![CDATA[Enter email Prime977@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Enter telephone [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> id: input-telephone]]]>
+    </line>
+    <line>
+      <![CDATA[Enter password[[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> id: input-password]]]>
+    </line>
+    <line>
+      <![CDATA[Enter conform password [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> id: input-confirm]]]>
+    </line>
+    <line>
+      <![CDATA[Click on newsletter button [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //input[@name='newsletter']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on privacy policy [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //div[@class = 'buttons']//input[@name='agree']]]]>
+    </line>
+    <line>
+      <![CDATA[Click on continue [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //div[@class = 'buttons']//input[@value='Continue']]]]>
+    </line>
+    <line>
+      <![CDATA[Verify message [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //h1[contains(text(),'Your Account Has Been Created!')]]]]>
+    </line>
+    <line>
+      <![CDATA[click on continue [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //a[contains(text(),'Continue')]]]]>
+    </line>
+    <line>
+      <![CDATA[click on my account link [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //span[contains(text(),'My Account')]]]]>
+    </line>
+    <line>
+      <![CDATA[Verify logout text [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //h1[contains(text(),'Account Logout')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on continue]]>
+    </line>
+    <line>
+      <![CDATA[Click on my account[[ChromeDriver: chrome on WINDOWS (df4b39f1fbb72ec4c577549fe34e581b)] -> xpath: //span[contains(text(),'My Account')]]]]>
+    </line>
+    <line>
+      <![CDATA[Verify returning text [[ChromeDriver: chrome on WINDOWS (df4b39f1fbb72ec4c577549fe34e581b)] -> xpath: //h2[contains(text(),'Returning Customer')]]]]>
+    </line>
+    <line>
+      <![CDATA[Click on my account[[ChromeDriver: chrome on WINDOWS (1e3239cf0d69f0ebbfc9d6b2be7fc615)] -> xpath: //span[contains(text(),'My Account')]]]]>
+    </line>
+    <line>
+      <![CDATA[Verify register text [[ChromeDriver: chrome on WINDOWS (1e3239cf0d69f0ebbfc9d6b2be7fc615)] -> xpath: //h1[contains(text(),'Register Account')]]]]>
+    </line>
+    <line>
+      <![CDATA[Mousehover on componant and click[[ChromeDriver: chrome on WINDOWS (cce9a20983f72402ed25de60f3943b68)] -> link text: Components]]]>
+    </line>
+    <line>
+      <![CDATA[Select show all componant]]>
+    </line>
+    <line>
+      <![CDATA[Verify message[[ChromeDriver: chrome on WINDOWS (cce9a20983f72402ed25de60f3943b68)] -> xpath: //h2[contains(text(),'Components')]]]]>
+    </line>
+    <line>
+      <![CDATA[Select show all desktops]]>
+    </line>
+    <line>
+      <![CDATA[Verify message [[ChromeDriver: chrome on WINDOWS (8f70d3d8513ae3a652a2de21c96d9846)] -> xpath: //h2[contains(text(),'Desktops')]]]]>
+    </line>
+    <line>
+      <![CDATA[Mousehover on laptop and notebook and click[[ChromeDriver: chrome on WINDOWS (26cc73498e0d7a1f7ad5b625b33fa6bc)] -> link text: Laptops & Notebooks]]]>
+    </line>
+    <line>
+      <![CDATA[Select show all option and notebook]]>
+    </line>
+    <line>
+      <![CDATA[Verify text[[ChromeDriver: chrome on WINDOWS (26cc73498e0d7a1f7ad5b625b33fa6bc)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="137677" started-at="2022-12-13T13:54:01 GMT" finished-at="2022-12-13T13:56:19 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="DesktopsPageTest.verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="verifyProductAddedToShoppingCartSuccessFully" class="com.tutorialsninja.testsuite.DesktopsPageTest"/>
+        <method signature="DesktopsPageTest.verifyProductArrangeInAlphaBaticalOrder()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="verifyProductArrangeInAlphaBaticalOrder" class="com.tutorialsninja.testsuite.DesktopsPageTest"/>
+        <method signature="LaptopsAndNotebooksTest.verifyProductsPriceDisplayHighToLowSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="verifyProductsPriceDisplayHighToLowSuccessfully" class="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest"/>
+        <method signature="LaptopsAndNotebooksTest.verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="verifyThatUserPlaceOrderSuccessfully" class="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest"/>
+        <method signature="MyAccountPageTest.verifyThatUserRegisterAccountSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="verifyThatUserRegisterAccountSuccessfully" class="com.tutorialsninja.testsuite.MyAccountPageTest"/>
+        <method signature="MyAccountPageTest.verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="verifyUserShouldNavigateToLoginPageSuccessfully" class="com.tutorialsninja.testsuite.MyAccountPageTest"/>
+        <method signature="MyAccountPageTest.verifyUserShouldNavigateToRegisterPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="verifyUserShouldNavigateToRegisterPageSuccessfully" class="com.tutorialsninja.testsuite.MyAccountPageTest"/>
+        <method signature="TopMenuPageTest.verifyUserShouldNavigateToComponentsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="verifyUserShouldNavigateToComponentsPageSuccessfully" class="com.tutorialsninja.testsuite.TopMenuPageTest"/>
+        <method signature="TopMenuPageTest.verifyUserShouldNavigateToDesktopsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="verifyUserShouldNavigateToDesktopsPageSuccessfully" class="com.tutorialsninja.testsuite.TopMenuPageTest"/>
+        <method signature="TopMenuPageTest.verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" class="com.tutorialsninja.testsuite.TopMenuPageTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="DesktopsPageTest.verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="verifyProductAddedToShoppingCartSuccessFully" class="com.tutorialsninja.testsuite.DesktopsPageTest"/>
+        <method signature="LaptopsAndNotebooksTest.verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="verifyThatUserPlaceOrderSuccessfully" class="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest"/>
+        <method signature="MyAccountPageTest.verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="verifyUserShouldNavigateToLoginPageSuccessfully" class="com.tutorialsninja.testsuite.MyAccountPageTest"/>
+        <method signature="TopMenuPageTest.verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" class="com.tutorialsninja.testsuite.TopMenuPageTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="DesktopsPageTest.verifyProductArrangeInAlphaBaticalOrder()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="verifyProductArrangeInAlphaBaticalOrder" class="com.tutorialsninja.testsuite.DesktopsPageTest"/>
+        <method signature="LaptopsAndNotebooksTest.verifyProductsPriceDisplayHighToLowSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="verifyProductsPriceDisplayHighToLowSuccessfully" class="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest"/>
+        <method signature="MyAccountPageTest.verifyUserShouldNavigateToRegisterPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="verifyUserShouldNavigateToRegisterPageSuccessfully" class="com.tutorialsninja.testsuite.MyAccountPageTest"/>
+        <method signature="TopMenuPageTest.verifyUserShouldNavigateToDesktopsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="verifyUserShouldNavigateToDesktopsPageSuccessfully" class="com.tutorialsninja.testsuite.TopMenuPageTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Regression Test" duration-ms="137677" started-at="2022-12-13T13:54:01 GMT" finished-at="2022-12-13T13:56:19 GMT">
+      <class name="com.tutorialsninja.testsuite.LaptopsAndNotebooksTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="setUp" is-config="true" duration-ms="3367" started-at="2022-12-13T13:54:37 GMT" finished-at="2022-12-13T13:54:41 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="inIt" is-config="true" duration-ms="8" started-at="2022-12-13T13:54:41 GMT" finished-at="2022-12-13T13:54:41 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductsPriceDisplayHighToLowSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="verifyProductsPriceDisplayHighToLowSuccessfully" duration-ms="1521" started-at="2022-12-13T13:54:41 GMT" finished-at="2022-12-13T13:54:42 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Laptops and notebook tab [[ChromeDriver: chrome on WINDOWS (e483025b957be1e591ebd9e892dc0776)] -> link text: Laptops & Notebooks]]]>
+            </line>
+            <line>
+              <![CDATA[Click on show all option [[ChromeDriver: chrome on WINDOWS (e483025b957be1e591ebd9e892dc0776)] -> link text: Show All Laptops & Notebooks]]]>
+            </line>
+            <line>
+              <![CDATA[Select price Low to High [[ChromeDriver: chrome on WINDOWS (e483025b957be1e591ebd9e892dc0776)] -> id: input-sort]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductsPriceDisplayHighToLowSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="tearDown" is-config="true" duration-ms="936" started-at="2022-12-13T13:54:42 GMT" finished-at="2022-12-13T13:54:43 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="setUp" is-config="true" duration-ms="3399" started-at="2022-12-13T13:54:43 GMT" finished-at="2022-12-13T13:54:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="inIt" is-config="true" duration-ms="4" started-at="2022-12-13T13:54:47 GMT" finished-at="2022-12-13T13:54:47 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="verifyThatUserPlaceOrderSuccessfully" duration-ms="13800" started-at="2022-12-13T13:54:47 GMT" finished-at="2022-12-13T13:55:00 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[ Clicl on currency button[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //span[contains(text(),'Currency')]]]]>
+            </line>
+            <line>
+              <![CDATA[Select currency from drop down [[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //ul[@class = 'dropdown-menu']/li], [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //ul[@class = 'dropdown-menu']/li], [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //ul[@class = 'dropdown-menu']/li]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on Laptops and notebook tab [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> link text: Laptops & Notebooks]]]>
+            </line>
+            <line>
+              <![CDATA[Click on show all option [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> link text: Show All Laptops & Notebooks]]]>
+            </line>
+            <line>
+              <![CDATA[Select option from drop down [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-sort]]]>
+            </line>
+            <line>
+              <![CDATA[select Macbook[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> link text: MacBook]]]>
+            </line>
+            <line>
+              <![CDATA[Verify text [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //h1[contains(text(),'MacBook')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on add to cart [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //button[@id='button-cart']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on shopping cart link[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //a[contains(text(),'shopping cart')]]]]>
+            </line>
+            <line>
+              <![CDATA[Verify shopping cart message[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //h1[contains(text(),' (0.00kg)')]]]]>
+            </line>
+            <line>
+              <![CDATA[Verify mackbook text[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //div[@class = 'table-responsive']/table/tbody/tr/td[2]/a]]]>
+            </line>
+            <line>
+              <![CDATA[Clear quantity and add quantity[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //input[contains(@name, 'quantity')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on update button [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //button[contains(@data-original-title, 'Update')]]]]>
+            </line>
+            <line>
+              <![CDATA[Verify text[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //div[@class='alert alert-success alert-dismissible']]]]>
+            </line>
+            <line>
+              <![CDATA[Verify text [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //tbody/tr[1]/td[6]]]]>
+            </line>
+            <line>
+              <![CDATA[Verify check out text[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //a[contains(text(),'Checkout')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on checkout[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //a[contains(text(),'Checkout')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on radio button [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //body/div[@id='checkout-checkout']/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/label[1]/input[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on continue button[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //input[@id='button-account']]]]>
+            </line>
+            <line>
+              <![CDATA[Enter first name[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-firstname]]]>
+            </line>
+            <line>
+              <![CDATA[Enter last name[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-lastname]]]>
+            </line>
+            <line>
+              <![CDATA[Enter email RavaP@gmailF5.com]]>
+            </line>
+            <line>
+              <![CDATA[Enter telephone [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-telephone]]]>
+            </line>
+            <line>
+              <![CDATA[Enter company name [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-company]]]>
+            </line>
+            <line>
+              <![CDATA[Enter address [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-address-1]]]>
+            </line>
+            <line>
+              <![CDATA[Enter city name [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-city]]]>
+            </line>
+            <line>
+              <![CDATA[Enter postcode [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> id: input-payment-postcode]]]>
+            </line>
+            <line>
+              <![CDATA[Select country [[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //select[@id='input-payment-country']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on continue]]>
+            </line>
+            <line>
+              <![CDATA[Tick terms and condition checkbox[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //body/div[@id='checkout-checkout']/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/input[1]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on continue[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //input[@id='button-payment-method']]]]>
+            </line>
+            <line>
+              <![CDATA[Verify message[[ChromeDriver: chrome on WINDOWS (8942cc093f6a65eb88ce8825949fb5ee)] -> xpath: //div[@class='alert alert-danger alert-dismissible']]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserPlaceOrderSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64]" name="tearDown" is-config="true" duration-ms="810" started-at="2022-12-13T13:55:00 GMT" finished-at="2022-12-13T13:55:01 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.LaptopsAndNotebooksTest -->
+      <class name="com.tutorialsninja.testsuite.TopMenuPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="setUp" is-config="true" duration-ms="3347" started-at="2022-12-13T13:56:01 GMT" finished-at="2022-12-13T13:56:05 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="inIt" is-config="true" duration-ms="2" started-at="2022-12-13T13:56:05 GMT" finished-at="2022-12-13T13:56:05 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToComponentsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="verifyUserShouldNavigateToComponentsPageSuccessfully" duration-ms="2717" started-at="2022-12-13T13:56:05 GMT" finished-at="2022-12-13T13:56:08 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Mousehover on componant and click[[ChromeDriver: chrome on WINDOWS (cce9a20983f72402ed25de60f3943b68)] -> link text: Components]]]>
+            </line>
+            <line>
+              <![CDATA[Select show all componant]]>
+            </line>
+            <line>
+              <![CDATA[Verify message[[ChromeDriver: chrome on WINDOWS (cce9a20983f72402ed25de60f3943b68)] -> xpath: //h2[contains(text(),'Components')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToComponentsPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="tearDown" is-config="true" duration-ms="1179" started-at="2022-12-13T13:56:08 GMT" finished-at="2022-12-13T13:56:09 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="setUp" is-config="true" duration-ms="3382" started-at="2022-12-13T13:56:09 GMT" finished-at="2022-12-13T13:56:12 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="inIt" is-config="true" duration-ms="1" started-at="2022-12-13T13:56:12 GMT" finished-at="2022-12-13T13:56:12 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToDesktopsPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="verifyUserShouldNavigateToDesktopsPageSuccessfully" duration-ms="1294" started-at="2022-12-13T13:56:12 GMT" finished-at="2022-12-13T13:56:13 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Select show all desktops]]>
+            </line>
+            <line>
+              <![CDATA[Verify message [[ChromeDriver: chrome on WINDOWS (8f70d3d8513ae3a652a2de21c96d9846)] -> xpath: //h2[contains(text(),'Desktops')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToDesktopsPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="tearDown" is-config="true" duration-ms="794" started-at="2022-12-13T13:56:13 GMT" finished-at="2022-12-13T13:56:14 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="setUp" is-config="true" duration-ms="3370" started-at="2022-12-13T13:56:14 GMT" finished-at="2022-12-13T13:56:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="inIt" is-config="true" duration-ms="1" started-at="2022-12-13T13:56:18 GMT" finished-at="2022-12-13T13:56:18 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" duration-ms="834" started-at="2022-12-13T13:56:18 GMT" finished-at="2022-12-13T13:56:18 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Mousehover on laptop and notebook and click[[ChromeDriver: chrome on WINDOWS (26cc73498e0d7a1f7ad5b625b33fa6bc)] -> link text: Laptops & Notebooks]]]>
+            </line>
+            <line>
+              <![CDATA[Select show all option and notebook]]>
+            </line>
+            <line>
+              <![CDATA[Verify text[[ChromeDriver: chrome on WINDOWS (26cc73498e0d7a1f7ad5b625b33fa6bc)] -> xpath: //h2[contains(text(),'Laptops & Notebooks')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6]" name="tearDown" is-config="true" duration-ms="728" started-at="2022-12-13T13:56:18 GMT" finished-at="2022-12-13T13:56:19 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.TopMenuPageTest -->
+      <class name="com.tutorialsninja.testsuite.DesktopsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="setUp" is-config="true" duration-ms="6673" started-at="2022-12-13T13:54:02 GMT" finished-at="2022-12-13T13:54:09 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="inIt" is-config="true" duration-ms="82" started-at="2022-12-13T13:54:09 GMT" finished-at="2022-12-13T13:54:09 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="verifyProductAddedToShoppingCartSuccessFully" duration-ms="20626" started-at="2022-12-13T13:54:09 GMT" finished-at="2022-12-13T13:54:29 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[ Clicl on currency button[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //span[contains(text(),'Currency')]]]]>
+            </line>
+            <line>
+              <![CDATA[Select currency from drop down [[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //ul[@class = 'dropdown-menu']/li], [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //ul[@class = 'dropdown-menu']/li], [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //ul[@class = 'dropdown-menu']/li]]]]>
+            </line>
+            <line>
+              <![CDATA[Mousehover and click on laptop[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> link text: Desktops]]]>
+            </line>
+            <line>
+              <![CDATA[Click on all desktop [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> link text: Show All Desktops]]]>
+            </line>
+            <line>
+              <![CDATA[Select Z to A from dropdown[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //select[@id='input-sort'and@class='form-control']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on HP[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //a[contains(text(),'HP LP3065')]]]]>
+            </line>
+            <line>
+              <![CDATA[Verify HP text [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //h1[contains(text(),'HP LP3065')]]]]>
+            </line>
+            <line>
+              <![CDATA[Select delivery date ]]>
+            </line>
+            <line>
+              <![CDATA[Add quantity[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //input[@id='input-quantity']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on add button [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //button[@id='button-cart']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on shopping cart [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //button[@id='button-cart']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //a[contains(text(),'shopping cart')]]]]>
+            </line>
+            <line>
+              <![CDATA[Verify shopping cart message [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //h1[contains(text(),' (1.00kg)')]]]]>
+            </line>
+            <line>
+              <![CDATA[Verify product name [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> css selector: div.container:nth-child(4) div.row div.col-sm-12 div.table-responsive table.table.table-bordered tbody:nth-child(2) tr:nth-child(1) td.text-left:nth-child(2) > a:nth-child(1)]]]>
+            </line>
+            <line>
+              <![CDATA[Verify product model121[[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> css selector: div.container:nth-child(4) div.row div.col-sm-12 div.table-responsive table.table.table-bordered tbody:nth-child(2) tr:nth-child(1) > td.text-left:nth-child(3)]]]>
+            </line>
+            <line>
+              <![CDATA[Verify total [[ChromeDriver: chrome on WINDOWS (675dbb9e5d3cc0aee6e35aaa1c514770)] -> xpath: //tbody/tr[1]/td[6]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToShoppingCartSuccessFully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="tearDown" is-config="true" duration-ms="1361" started-at="2022-12-13T13:54:29 GMT" finished-at="2022-12-13T13:54:31 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="setUp" is-config="true" duration-ms="3389" started-at="2022-12-13T13:54:31 GMT" finished-at="2022-12-13T13:54:34 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="inIt" is-config="true" duration-ms="2" started-at="2022-12-13T13:54:34 GMT" finished-at="2022-12-13T13:54:34 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductArrangeInAlphaBaticalOrder()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="verifyProductArrangeInAlphaBaticalOrder" duration-ms="1924" started-at="2022-12-13T13:54:34 GMT" finished-at="2022-12-13T13:54:36 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Mousehover and click on laptop[[ChromeDriver: chrome on WINDOWS (d52eecba7b46d6666f500d406bda2e94)] -> link text: Desktops]]]>
+            </line>
+            <line>
+              <![CDATA[Click on all desktop [[ChromeDriver: chrome on WINDOWS (d52eecba7b46d6666f500d406bda2e94)] -> link text: Show All Desktops]]]>
+            </line>
+            <line>
+              <![CDATA[Select Z to A from dropdown[[ChromeDriver: chrome on WINDOWS (d52eecba7b46d6666f500d406bda2e94)] -> xpath: //select[@id='input-sort'and@class='form-control']]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductArrangeInAlphaBaticalOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d]" name="tearDown" is-config="true" duration-ms="1204" started-at="2022-12-13T13:54:36 GMT" finished-at="2022-12-13T13:54:37 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.DesktopsPageTest -->
+      <class name="com.tutorialsninja.testsuite.MyAccountPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="setUp" is-config="true" duration-ms="3359" started-at="2022-12-13T13:55:01 GMT" finished-at="2022-12-13T13:55:04 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="inIt" is-config="true" duration-ms="7" started-at="2022-12-13T13:55:04 GMT" finished-at="2022-12-13T13:55:04 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyThatUserRegisterAccountSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="verifyThatUserRegisterAccountSuccessfully" duration-ms="24560" started-at="2022-12-13T13:55:04 GMT" finished-at="2022-12-13T13:55:29 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on my account[[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //span[contains(text(),'My Account')]]]]>
+            </line>
+            <line>
+              <![CDATA[Enter first name[[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> id: input-firstname]]]>
+            </line>
+            <line>
+              <![CDATA[Enter last name[[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> id: input-lastname]]]>
+            </line>
+            <line>
+              <![CDATA[Enter email Prime977@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Enter telephone [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> id: input-telephone]]]>
+            </line>
+            <line>
+              <![CDATA[Enter password[[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> id: input-password]]]>
+            </line>
+            <line>
+              <![CDATA[Enter conform password [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> id: input-confirm]]]>
+            </line>
+            <line>
+              <![CDATA[Click on newsletter button [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //input[@name='newsletter']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on privacy policy [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //div[@class = 'buttons']//input[@name='agree']]]]>
+            </line>
+            <line>
+              <![CDATA[Click on continue [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //div[@class = 'buttons']//input[@value='Continue']]]]>
+            </line>
+            <line>
+              <![CDATA[Verify message [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //h1[contains(text(),'Your Account Has Been Created!')]]]]>
+            </line>
+            <line>
+              <![CDATA[click on continue [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //a[contains(text(),'Continue')]]]]>
+            </line>
+            <line>
+              <![CDATA[click on my account link [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //span[contains(text(),'My Account')]]]]>
+            </line>
+            <line>
+              <![CDATA[Verify logout text [[ChromeDriver: chrome on WINDOWS (96c91c5e9bda97ee31ce10f8c5e7cf56)] -> xpath: //h1[contains(text(),'Account Logout')]]]]>
+            </line>
+            <line>
+              <![CDATA[Click on continue]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserRegisterAccountSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="tearDown" is-config="true" duration-ms="747" started-at="2022-12-13T13:55:29 GMT" finished-at="2022-12-13T13:55:30 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="setUp" is-config="true" duration-ms="4422" started-at="2022-12-13T13:55:30 GMT" finished-at="2022-12-13T13:55:34 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="inIt" is-config="true" duration-ms="3" started-at="2022-12-13T13:55:34 GMT" finished-at="2022-12-13T13:55:34 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="verifyUserShouldNavigateToLoginPageSuccessfully" duration-ms="672" started-at="2022-12-13T13:55:34 GMT" finished-at="2022-12-13T13:55:35 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on my account[[ChromeDriver: chrome on WINDOWS (df4b39f1fbb72ec4c577549fe34e581b)] -> xpath: //span[contains(text(),'My Account')]]]]>
+            </line>
+            <line>
+              <![CDATA[Verify returning text [[ChromeDriver: chrome on WINDOWS (df4b39f1fbb72ec4c577549fe34e581b)] -> xpath: //h2[contains(text(),'Returning Customer')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLoginPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="tearDown" is-config="true" duration-ms="884" started-at="2022-12-13T13:55:35 GMT" finished-at="2022-12-13T13:55:36 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="setUp" is-config="true" duration-ms="3290" started-at="2022-12-13T13:55:36 GMT" finished-at="2022-12-13T13:55:39 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="inIt" is-config="true" duration-ms="2" started-at="2022-12-13T13:55:39 GMT" finished-at="2022-12-13T13:55:39 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToRegisterPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="verifyUserShouldNavigateToRegisterPageSuccessfully" duration-ms="21208" started-at="2022-12-13T13:55:39 GMT" finished-at="2022-12-13T13:56:00 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on my account[[ChromeDriver: chrome on WINDOWS (1e3239cf0d69f0ebbfc9d6b2be7fc615)] -> xpath: //span[contains(text(),'My Account')]]]]>
+            </line>
+            <line>
+              <![CDATA[Verify register text [[ChromeDriver: chrome on WINDOWS (1e3239cf0d69f0ebbfc9d6b2be7fc615)] -> xpath: //h1[contains(text(),'Register Account')]]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToRegisterPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70]" name="tearDown" is-config="true" duration-ms="1187" started-at="2022-12-13T13:56:00 GMT" finished-at="2022-12-13T13:56:01 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.MyAccountPageTest -->
+    </test> <!-- Regression Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>

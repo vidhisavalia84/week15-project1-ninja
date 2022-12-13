@@ -1,0 +1,106 @@
+<html>
+<head>
+<title>TestNG:  week15-page-factory-tutorialsninja</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>week15-page-factory-tutorialsninja</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Dec 13 13:51:51 GMT 2022</td>
+</tr>
+<tr><td>Total time:</td><td>24 seconds (24455 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.tutorialsninja.testsuite.DesktopsPageTest.verifyProductAddedToShoppingCartSuccessFully()'><b>verifyProductAddedToShoppingCartSuccessFully</b><br>Test class: com.tutorialsninja.testsuite.DesktopsPageTest<br/>
+<a href="#Output-1060935276" onClick='toggleBox("Output-1060935276", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1060935276" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1060935276">
+ Clicl on currency button[[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //span[contains(text(),'Currency')]]<br/>
+Select currency from drop down [[[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //ul[@class = 'dropdown-menu']/li], [[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //ul[@class = 'dropdown-menu']/li], [[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //ul[@class = 'dropdown-menu']/li]]<br/>
+Mousehover and click on laptop[[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> link text: Desktops]<br/>
+Click on all desktop [[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> link text: Show All Desktops]<br/>
+Select Z to A from dropdown[[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //select[@id='input-sort'and@class='form-control']]<br/>
+Click on HP[[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //a[contains(text(),'HP LP3065')]]<br/>
+Verify HP text [[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //h1[contains(text(),'HP LP3065')]]<br/>
+Select delivery date <br/>
+Add quantity[[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //input[@id='input-quantity']]<br/>
+Click on add button [[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //button[@id='button-cart']]<br/>
+Click on shopping cart [[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //button[@id='button-cart']]<br/>
+Click on shopping cart link [[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //a[contains(text(),'shopping cart')]]<br/>
+Verify shopping cart message [[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //h1[contains(text(),' (1.00kg)')]]<br/>
+Verify product name [[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> css selector: div.container:nth-child(4) div.row div.col-sm-12 div.table-responsive table.table.table-bordered tbody:nth-child(2) tr:nth-child(1) td.text-left:nth-child(2) > a:nth-child(1)]<br/>
+Verify product model121[[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> css selector: div.container:nth-child(4) div.row div.col-sm-12 div.table-responsive table.table.table-bordered tbody:nth-child(2) tr:nth-child(1) > td.text-left:nth-child(3)]<br/>
+Verify total [[ChromeDriver: chrome on WINDOWS (1646a5ae20a87faae8faf04acf175216)] -> xpath: //tbody/tr[1]/td[6]]<br/>
+</div>
+</td>
+<td></td>
+<td>16</td>
+<td>com.tutorialsninja.testsuite.DesktopsPageTest@6ee52dcd</td></tr>
+</table><p>
+</body>
+</html>

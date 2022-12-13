@@ -1,0 +1,133 @@
+<html>
+<head>
+<title>TestNG:  Sanity Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Sanity Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>4/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Dec 13 13:40:14 GMT 2022</td>
+</tr>
+<tr><td>Total time:</td><td>46 seconds (46563 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td>sanity </td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.tutorialsninja.testsuite.DesktopsPageTest.verifyProductArrangeInAlphaBaticalOrder()'><b>verifyProductArrangeInAlphaBaticalOrder</b><br>Test class: com.tutorialsninja.testsuite.DesktopsPageTest<br/>
+<a href="#Output-1554877309" onClick='toggleBox("Output-1554877309", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1554877309" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1554877309">
+Mousehover and click on laptop[[ChromeDriver: chrome on WINDOWS (041883b10cfb21eeb42586a3d9eab1a7)] -> link text: Desktops]<br/>
+Click on all desktop [[ChromeDriver: chrome on WINDOWS (041883b10cfb21eeb42586a3d9eab1a7)] -> link text: Show All Desktops]<br/>
+Select Z to A from dropdown[[ChromeDriver: chrome on WINDOWS (041883b10cfb21eeb42586a3d9eab1a7)] -> xpath: //select[@id='input-sort'and@class='form-control']]<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.tutorialsninja.testsuite.DesktopsPageTest@305fd85d</td></tr>
+<tr>
+<td title='com.tutorialsninja.testsuite.LaptopsAndNotebooksTest.verifyProductsPriceDisplayHighToLowSuccessfully()'><b>verifyProductsPriceDisplayHighToLowSuccessfully</b><br>Test class: com.tutorialsninja.testsuite.LaptopsAndNotebooksTest<br/>
+<a href="#Output-1710228600" onClick='toggleBox("Output-1710228600", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1710228600" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1710228600">
+Click on Laptops and notebook tab [[ChromeDriver: chrome on WINDOWS (2791abb256a461c624ab5a74e68022c9)] -> link text: Laptops & Notebooks]<br/>
+Click on show all option [[ChromeDriver: chrome on WINDOWS (2791abb256a461c624ab5a74e68022c9)] -> link text: Show All Laptops & Notebooks]<br/>
+Select price Low to High [[ChromeDriver: chrome on WINDOWS (2791abb256a461c624ab5a74e68022c9)] -> id: input-sort]<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.tutorialsninja.testsuite.LaptopsAndNotebooksTest@32d2fa64</td></tr>
+<tr>
+<td title='com.tutorialsninja.testsuite.TopMenuPageTest.verifyUserShouldNavigateToDesktopsPageSuccessfully()'><b>verifyUserShouldNavigateToDesktopsPageSuccessfully</b><br>Test class: com.tutorialsninja.testsuite.TopMenuPageTest<br/>
+<a href="#Output-239937174" onClick='toggleBox("Output-239937174", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-239937174" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-239937174">
+Select show all desktops<br/>
+Verify message [[ChromeDriver: chrome on WINDOWS (c5611cdd7b06a56b20cf3cf103414911)] -> xpath: //h2[contains(text(),'Desktops')]]<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.tutorialsninja.testsuite.TopMenuPageTest@2c039ac6</td></tr>
+<tr>
+<td title='com.tutorialsninja.testsuite.MyAccountPageTest.verifyUserShouldNavigateToRegisterPageSuccessfully()'><b>verifyUserShouldNavigateToRegisterPageSuccessfully</b><br>Test class: com.tutorialsninja.testsuite.MyAccountPageTest<br/>
+<a href="#Output-181326224" onClick='toggleBox("Output-181326224", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-181326224" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-181326224">
+Click on my account[[ChromeDriver: chrome on WINDOWS (f45bba142a752def1196df38e41cb711)] -> xpath: //span[contains(text(),'My Account')]]<br/>
+Verify register text [[ChromeDriver: chrome on WINDOWS (f45bba142a752def1196df38e41cb711)] -> xpath: //h1[contains(text(),'Register Account')]]<br/>
+</div>
+</td>
+<td></td>
+<td>21</td>
+<td>com.tutorialsninja.testsuite.MyAccountPageTest@3e57cd70</td></tr>
+</table><p>
+</body>
+</html>
